@@ -8,3 +8,19 @@ UofT Fintech Week 21
 3. Interact with Your Deployed Smart Contract
 
 ![Creation of Kasei Coin Contract](./createdContract.PNG)
+
+![Deployment](./deployment.PNG)
+
+![Crowdsale Deployed](./crowdsaleDeployed.PNG)
+
+![Solidity Address](./solidityAddress.PNG)
+
+![Kasei Coin Address](./kaseiCoinAddress.PNG)
+
+![Transaction Values](./transactionValues.PNG)
+
+![Buy Tokens](./buyTokens.PNG)
+
+![Buy and Raised](./buyAndRaised.PNG)
+
+![Check Balances](./checkedBalance.PNG)
