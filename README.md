@@ -17,10 +17,10 @@ UofT Fintech Week 21
 
 ![Kasei Coin Address](./kaseiCoinAddress.PNG)
 
-![Transaction Values](./transactionValues.PNG)
-
 ![Buy Tokens](./buyTokens.PNG)
 
 ![Buy and Raised](./buyAndRaised.PNG)
 
 ![Check Balances](./checkedBalance.PNG)
+
+![Transaction Values](./transactionValues.PNG)
